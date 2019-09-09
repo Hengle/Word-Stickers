@@ -1,0 +1,35 @@
+/* Different languages config */
+"lang_count" = "1"
+
+/* Different texts config */
+"text_count" = "100"
+
+/* English ==================================================================================== */
+"lang00_lang" = "English" // Unity SystemLanguage enum value used for detect language
+"lang00_name" = "English" // Display name
+
+/* General */
+
+/* Menu */
+
+/* Game */
+
+/* PopUp */
+
+/* Share */
+"lang00_text000" = "Word Stickers!"
+"lang00_text001" = "https://eerylab.com/wordstickers/\nCheck out this great game, Word Stickers!"
+
+/* Notifications */
+"lang00_text010" = "\uD83E\uDD11"
+"lang00_text011" = "\uD83D\uDD25"
+"lang00_text012" = "\uD83D\uDE32"
+"lang00_text013" = "\u2764"
+"lang00_text014" = "\uD83D\uDE0D"
+"lang00_text015" = "\uD83D\uDCB0"
+"lang00_text016" = "\uD83D\uDC96"
+"lang00_text017" = "\uD83D\uDC8E"
+"lang00_text018" = "\u2728"
+"lang00_text019" = "\uD83C\uDF81"
+"lang00_text020" = "\uD83D\uDD2E"
+"lang00_text021" = "\uD83D\uDCB8"

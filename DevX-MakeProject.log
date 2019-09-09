@@ -1,0 +1,165 @@
+Resolve4: UnityEngine
+Resolve4: UnityEngine.CoreModule
+Resolve4: mscorlib
+Resolve4: netstandard
+Resolve4: UnityEngine.TextRenderingModule
+Resolve4: UnityEngine.TextCoreModule
+[129: PlayerSettings] string.size 1818391920 > 10_000_000 \macAppStoreCategory, buf.Position=340
+129: PlayerSettings pathID: 1
+
+Ba.Warning: pos: 340 != len: 652 for: {fileID: 0 (globalgamemanagers), pathID: 1, m_Name: , type: PlayerSettings}
+Ba.Warning: pos: 44 != len: 48 for: {fileID: 0 (globalgamemanagers), pathID: 4, m_Name: , type: AudioManager}
+Ba.Warning: pos: 232 != len: 238 for: {fileID: 0 (globalgamemanagers), pathID: 10, m_Name: , type: PhysicsManager}
+[141: BuildSettings] string.size 4148219001 > 10_000_000 \m_Version, buf.Position=92
+141: BuildSettings pathID: 11
+
+Ba.Warning: pos: 92 != len: 15092 for: {fileID: 0 (globalgamemanagers), pathID: 11, m_Name: , type: BuildSettings}
+Resolve4: UnityEngine.UI
+Resolve4: UnityEngine.AudioModule
+Resolve4: Unity.TextMeshPro
+Resolve4: UnityEngine.ParticleSystemModule
+Resolve4: UnityEngine.AnimationModule
+Resolve4: System.Xml
+Resolve4: UnityEngine.Physics2DModule
+img read old
+img read old
+img read old
+1 GameObject - find for 2018.4.4f1
+img read old
+Missed: for UnityEngine.IMGUIModule.dll/UnityEngine/GUISkin
+Missed: for UnityEngine.IMGUIModule.dll/UnityEngine/GUISkin
+Missed: for UnityEngine.IMGUIModule.dll/UnityEngine/GUISkin
+Make Script DB
+Make Scripts
+Code decompile: Apple.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: Apple.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+Apple.dll- prepare classes, count: 4
+Apple.dll - decompiled
+Code decompile: Assembly-CSharp-firstpass.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: Assembly-CSharp-firstpass.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+Assembly-CSharp-firstpass.dll- prepare classes, count: 10
+Assembly-CSharp-firstpass.dll - decompiled
+Code decompile: Assembly-CSharp.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: Assembly-CSharp.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+Assembly-CSharp.dll- prepare classes, count: 177
+Assembly-CSharp.dll - decompiled
+Code decompile: ChannelPurchase.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: ChannelPurchase.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+ChannelPurchase.dll- prepare classes, count: 6
+ChannelPurchase.dll - decompiled
+Code decompile: Facebook.Unity.Android.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: Facebook.Unity.Android.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+Facebook.Unity.Android.dll- prepare classes, count: 2
+Facebook.Unity.Android.dll - decompiled
+Code decompile: Facebook.Unity.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: Facebook.Unity.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+Facebook.Unity.dll- prepare classes, count: 107
+Facebook.Unity.dll - decompiled
+Code decompile: Facebook.Unity.Gameroom.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: Facebook.Unity.Gameroom.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+Facebook.Unity.Gameroom.dll- prepare classes, count: 2
+Facebook.Unity.Gameroom.dll - decompiled
+Code decompile: Facebook.Unity.IOS.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: Facebook.Unity.IOS.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+Facebook.Unity.IOS.dll- prepare classes, count: 2
+Facebook.Unity.IOS.dll - decompiled
+Code decompile: Facebook.Unity.Settings.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: Facebook.Unity.Settings.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+Facebook.Unity.Settings.dll- prepare classes, count: 2
+Facebook.Unity.Settings.dll - decompiled
+Code decompile: FacebookNamedPipeClient.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: FacebookNamedPipeClient.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+FacebookNamedPipeClient.dll- prepare classes, count: 19
+FacebookNamedPipeClient.dll - decompiled
+Code decompile: FacebookStore.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: FacebookStore.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+FacebookStore.dll- prepare classes, count: 3
+FacebookStore.dll - decompiled
+Code decompile: Purchasing.Common.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: Purchasing.Common.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+Purchasing.Common.dll- prepare classes, count: 7
+Purchasing.Common.dll - decompiled
+Code decompile: Security.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: Security.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+Security.dll- prepare classes, count: 43
+Security.dll - decompiled
+Code decompile: Stores.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: Stores.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+Stores.dll- prepare classes, count: 134
+Stores.dll - decompiled
+Code decompile: Tizen.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: Tizen.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+Tizen.dll- prepare classes, count: 4
+Tizen.dll - decompiled
+Code decompile: UnityEngine.Advertisements.Android.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: UnityEngine.Advertisements.Android.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+UnityEngine.Advertisements.Android.dll- prepare classes, count: 3
+UnityEngine.Advertisements.Android.dll - decompiled
+Code decompile: UnityStore.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: UnityStore.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+UnityStore.dll- prepare classes, count: 8
+UnityStore.dll - decompiled
+Code decompile: winrt.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: winrt.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+winrt.dll- prepare classes, count: 6
+winrt.dll - decompiled
+Make plugins
+Check for DeObfuscate: Apple.dll
+Check for DeObfuscate: Assembly-CSharp-firstpass.dll
+Convert UnityAssembly To Plugin: from Assembly-CSharp-firstpass to PluginAs-CSharp-firstpass
+Check for DeObfuscate: Assembly-CSharp.dll
+Convert UnityAssembly To Plugin: from Assembly-CSharp to PluginAs-CSharp
+Check for DeObfuscate: ChannelPurchase.dll
+Check for DeObfuscate: Facebook.Unity.Android.dll
+Check for DeObfuscate: Facebook.Unity.dll
+Check for DeObfuscate: Facebook.Unity.Gameroom.dll
+Check for DeObfuscate: Facebook.Unity.IOS.dll
+Check for DeObfuscate: Facebook.Unity.Settings.dll
+Check for DeObfuscate: FacebookNamedPipeClient.dll
+Check for DeObfuscate: FacebookStore.dll
+Check for DeObfuscate: Purchasing.Common.dll
+Check for DeObfuscate: Security.dll
+Check for DeObfuscate: Stores.dll
+Check for DeObfuscate: Tizen.dll
+Check for DeObfuscate: UnityEngine.Advertisements.Android.dll
+Check for DeObfuscate: UnityStore.dll
+Check for DeObfuscate: winrt.dll
+Make binStreamingAssets
+Write scrip db
+MakeUnityProject - end, dir: E:\Unity Exported\Word Stickers

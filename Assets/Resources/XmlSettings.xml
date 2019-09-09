@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<application>
+    
+    <!-- rate it -->
+    <!-- ios_app_id - ios application id -->
+    <!-- android_app_id -  android application id -->
+    <!-- coins - how many coins user get when press rate -->
+    <!-- first_trigger - how many schools you need to finish to display message first time -->
+    <!-- next_trigger - how many schools you need to finish to display message next time -->
+    <rate_it ios_app_id="1450409320" android_app_id="com.eerylab.wordstickers" coins="100" first_trigger="1" next_trigger="5" />
+    
+    <!-- share -->
+    <!-- coins - how many coins user get when press rate -->
+    <!-- coins_num - how many times popup will have coins as an reward -->
+    <!-- first_trigger - how many schools you need to finish to display message first time -->
+    <!-- next_trigger - how many schools you need to finish to display message next time -->
+    <share coins="100" coins_num="3" first_trigger="1" next_trigger="5" />
+    
+    <!-- urls -->
+    <!-- type - url type: privacy, about -->
+    <!-- value - url -->
+    <url type="privacy" value="https://eerylab.com/privacy/" />
+    <url type="about" value="https://eerylab.com/wordstickers/" />
+    
+    <!-- coins -->
+    <!-- initial - coins at start -->
+    <!-- pack - coins at pack complete -->
+    <!-- perfect - coins at perfect -->
+    <!-- ladybug - coins for clicking ladybug -->
+    <coins initial="100" />
+    <coins pack="50" />
+    <coins perfect="10" />
+    <coins ladybug="1" />
+    
+    <!--- coins in levels -->
+    <!--  packs - count of packs to apply this tier -->
+    <!--  b_tier_each_level - each level when b settings should be used, ex. 2 means each second level will use b settings -->
+    <!--- min_coins_a - min value for random coins -->
+    <!--- min_coins_a - max value for random coins -->
+    <!--- min_coins_b - min value for random coins -->
+    <!--- min_coins_b - max value for random coins -->
+    <coins_in_levels packs="1" b_tier_each_level="2" min_coins_a="1" max_coins_a="2" min_coins_b="1" max_coins_b="3" />
+    <coins_in_levels packs="2" b_tier_each_level="2" min_coins_a="1" max_coins_a="3" min_coins_b="2" max_coins_b="4" />
+    <coins_in_levels packs="4" b_tier_each_level="2" min_coins_a="1" max_coins_a="3" min_coins_b="3" max_coins_b="5" />
+    <coins_in_levels packs="15" b_tier_each_level="2" min_coins_a="0" max_coins_a="5" min_coins_b="3" max_coins_b="8" />
+    <coins_in_levels packs="30" b_tier_each_level="2" min_coins_a="0" max_coins_a="6" min_coins_b="5" max_coins_b="10" />
+    <coins_in_levels packs="45" b_tier_each_level="2" min_coins_a="0" max_coins_a="5" min_coins_b="4" max_coins_b="8" />
+    <coins_in_levels packs="56" b_tier_each_level="2" min_coins_a="0" max_coins_a="6" min_coins_b="8" max_coins_b="12" />
+    
+    <!-- extra words -->
+    <!-- words - amount of extra words to get the coins prize -->
+    <!-- coins - coins prize -->
+    <extra_words words="5" coins="5" />
+    <extra_words words="10" coins="10" />
+    <extra_words words="15" coins="15" />
+    <extra_words words="20" coins="20" />
+    <extra_words words="25" coins="25" />
+    <extra_words words="30" coins="30" />
+    <extra_words words="35" coins="35" />
+    <extra_words words="40" coins="40" />
+    <extra_words words="45" coins="45" />
+    <extra_words words="50" coins="50" />
+    
+    <!-- hint -->
+    <!-- hint - hint type: good_start, start_and_finish, expose, tip, none -->
+    <!-- coins - coins cost, -1 for non-buyable -->
+    <!-- initial - initial amount -->
+    <!-- level - level from which hint will be available -->
+    <hint type="good_start" coins="30" initial="1" level="2" />
+    <hint type="start_and_finish" coins="50" initial="1" level="3" />
+    <hint type="expose" coins="100" initial="1" level="4" />
+    <hint type="tip" coins="80" initial="1" level="5" />
+    
+    <!-- iaps -->
+    <!-- type - -->
+    <!-- iaps -  -->
+    <!-- set -  -->
+    <!-- coins -  -->
+    <!-- good_start -  -->
+    <!-- start_finish -  -->
+    <!-- tip -  -->
+    <!-- expose -  -->
+    <!-- noads -  -->
+    <!-- icon -  -->
+    <iap iap="com.eerylab.wordstickers.coins1" type="consumable" set="0" coins="500" good_start="0" start_finish="0" expose="0" tip="0" noads="false" icon="0" />
+    <iap iap="com.eerylab.wordstickers.coins2" type="consumable" set="0" coins="1200" good_start="0" start_finish="0" expose="0" tip="0" noads="true" icon="1" />
+    <iap iap="com.eerylab.wordstickers.coins3" type="consumable" set="0" coins="3150" good_start="0" start_finish="0" expose="0" tip="0" noads="true" icon="2" />
+    <iap iap="com.eerylab.wordstickers.coins4" type="consumable" set="0" coins="14500" good_start="0" start_finish="0" expose="0" tip="0" noads="true" icon="3" />
+    <iap iap="com.eerylab.wordstickers.coins5" type="consumable" set="0" coins="51000" good_start="0" start_finish="0" expose="0" tip="0" noads="true" icon="4" />
+    <iap iap="com.eerylab.wordstickers.powerup1" type="consumable" set="0" coins="0" good_start="8" start_finish="0" expose="0" tip="0" noads="false" />
+    <iap iap="com.eerylab.wordstickers.powerup2" type="consumable" set="0" coins="0" good_start="0" start_finish="8" expose="0" tip="0" noads="false" />
+    <iap iap="com.eerylab.wordstickers.powerup3" type="consumable" set="0" coins="0" good_start="0" start_finish="0" expose="8" tip="0" noads="false" />
+    <iap iap="com.eerylab.wordstickers.powerup4" type="consumable" set="0" coins="0" good_start="0" start_finish="0" expose="0" tip="8" noads="false" />
+    <iap iap="com.eerylab.wordstickers.bundle1" type="consumable" set="0" coins="250" good_start="3" start_finish="3" expose="3" tip="3" noads="true" icon="0" />
+    <iap iap="com.eerylab.wordstickers.bundle2" type="consumable" set="0" coins="800" good_start="8" start_finish="8" expose="8" tip="8" noads="true" icon="1" />
+    <iap iap="com.eerylab.wordstickers.bundle3" type="consumable" set="0" coins="2200" good_start="16" start_finish="16" expose="16" tip="16" noads="true" icon="2" />
+    <iap iap="com.eerylab.wordstickers.bundle4" type="consumable" set="0" coins="8000" good_start="22" start_finish="22" expose="22" tip="22" noads="true" icon="3" />
+    <iap iap="com.eerylab.wordstickers.bundle5" type="consumable" set="0" coins="25000" good_start="64" start_finish="64" expose="64" tip="64" noads="true" icon="4" />
+    <iap iap="com.eerylab.wordstickers.onebundle1" type="consumable" set="1" coins="500" good_start="3" start_finish="3" expose="3" tip="3" noads="false" />
+    <iap iap="com.eerylab.wordstickers.noads" type="nonconsumable" set="0" coins="0" good_start="0" start_finish="0" expose="0" tip="0" noads="true" />
+    
+    <!-- interstitial ad -->
+    <!-- pack - pack at which ads will show, -1 for all -->
+    <!-- level - level at which ads will show, -1 for all -->
+    <interstitial_ad pack="1" level="5" />
+    <interstitial_ad pack="1" level="10" />
+    <interstitial_ad pack="1" level="15" />
+    <interstitial_ad pack="1" level="20" />
+    <interstitial_ad pack="2" level="1" />
+    <interstitial_ad pack="2" level="3" />
+    <interstitial_ad pack="2" level="6" />
+    <interstitial_ad pack="2" level="9" />
+    <interstitial_ad pack="2" level="12" />
+    <interstitial_ad pack="2" level="15" />
+    <interstitial_ad pack="2" level="18" />
+    <interstitial_ad pack="2" level="21" />
+    <interstitial_ad pack="2" level="24" />
+    <interstitial_ad pack="3" level="-1" />
+    <interstitial_ad pack="4" level="-1" />
+    <interstitial_ad pack="5" level="-1" />
+    <interstitial_ad pack="6" level="-1" />
+    <interstitial_ad pack="7" level="-1" />
+    <interstitial_ad pack="8" level="-1" />
+    <interstitial_ad pack="9" level="-1" />
+    <interstitial_ad pack="10" level="-1" />
+    <interstitial_ad pack="11" level="-1" />
+    <interstitial_ad pack="12" level="-1" />
+    <interstitial_ad pack="13" level="-1" />
+    <interstitial_ad pack="14" level="-1" />
+    <interstitial_ad pack="15" level="-1" />
+    <interstitial_ad pack="16" level="-1" />
+    <interstitial_ad pack="17" level="-1" />
+    <interstitial_ad pack="18" level="-1" />
+    <interstitial_ad pack="19" level="-1" />
+    <interstitial_ad pack="20" level="-1" />
+    <interstitial_ad pack="21" level="-1" />
+    <interstitial_ad pack="22" level="-1" />
+    <interstitial_ad pack="23" level="-1" />
+    <interstitial_ad pack="24" level="-1" />
+    <interstitial_ad pack="25" level="-1" />
+    <interstitial_ad pack="26" level="-1" />
+    <interstitial_ad pack="27" level="-1" />
+    <interstitial_ad pack="28" level="-1" />
+    <interstitial_ad pack="29" level="-1" />
+    <interstitial_ad pack="30" level="-1" />
+    <interstitial_ad pack="31" level="-1" />
+    <interstitial_ad pack="32" level="-1" />
+    <interstitial_ad pack="33" level="-1" />
+    <interstitial_ad pack="34" level="-1" />
+    <interstitial_ad pack="35" level="-1" />
+    <interstitial_ad pack="36" level="-1" />
+    <interstitial_ad pack="37" level="-1" />
+    <interstitial_ad pack="38" level="-1" />
+    <interstitial_ad pack="39" level="-1" />
+    <interstitial_ad pack="40" level="-1" />
+    
+    <!-- rewarded video ad -->
+    <!-- time_span - time span in hours for live, minutes for stage -->
+    <!-- coins - rewared coins -->
+    <rewarded_video_ad time_span="4" coins="50" />
+    
+    <!-- notifications -->
+    <!-- pack - pack at which notifications prompt will show -->
+    <!-- level - level at which notifications prompt will show -->
+    <notifications pack="2" level="1" />
+    
+    <!-- daily puzzle -->
+    <!-- time_span - time_span in days for live, minutes for stage  -->
+    <daily_puzzle time_span="1" />
+    
+    <!-- tutorial - IMPORTANT: to delete / turn off the tutorial please leave the entry and set its type to "none" -->
+    <!-- type - tutorial type: none, good_start, start_and_finish, expose, tip, perfect, dictionary, shop, extra_word -->
+    <!-- level - level at which tutorial triggers -->
+    <!-- delay - delay in seconds -->
+    <!-- hand_x - hand offset x -->
+    <!-- hand_y - hand offset y -->
+    <!-- message_x - message offset x -->
+    <!-- message_y - message offset y -->
+    <!-- perfect - triggers on first valid word -->
+    <!-- dictionary - triggers on valid / extra / repeat word that has dictionary -->
+    <!-- shop - triggers on insufficient coins -->
+    <!-- extra_word - triggers on extra word-->
+    <tutorial type="good_start" level="2" delay="0" hand_x="40" hand_y="100" message_x="0" message_y="300" perfect="false" dictionary="false" shop="false" extra_word="false" />
+    <tutorial type="start_and_finish" level="3" delay="0" hand_x="40" hand_y="100" message_x="0" message_y="300" perfect="false" dictionary="false" shop="false" extra_word="false" />
+    <tutorial type="expose" level="4" delay="0" hand_x="40" hand_y="100" message_x="0" message_y="300" perfect="false" dictionary="false" shop="false" extra_word="false" />
+    <tutorial type="tip" level="5" delay="0" hand_x="40" hand_y="100" message_x="-100" message_y="300" perfect="false" dictionary="false" shop="false" extra_word="false" />
+    <tutorial type="dictionary" level="6" delay="0" hand_x="40" hand_y="100" message_x="0" message_y="-200" perfect="false" dictionary="true" shop="false" extra_word="false" />
+    <tutorial type="perfect" level="-1" delay="0" hand_x="60" hand_y="0" message_x="100" message_y="-200" perfect="true" dictionary="false" shop="false" extra_word="false" />
+    <tutorial type="shop" level="-1" delay="0" hand_x="40" hand_y="50" message_x="-100" message_y="-200" perfect="false" dictionary="false" shop="true" extra_word="false" />
+    <tutorial type="extra_word" level="-1" delay="1" hand_x="40" hand_y="100" message_x="-180" message_y="-200" perfect="false" dictionary="false" shop="false" extra_word="true" />
+    
+</application>
+ 

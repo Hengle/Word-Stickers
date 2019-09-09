@@ -1,0 +1,468 @@
+|yellow s chicken, yellow
+ easily frightened  
+|yellow s yellow, xanthous
+ of the color intermediate between green and orange in the color spectrum; of something resembling the color of an egg yolk  
+|yonder s yonder, yon
+ distant but within sight (`yon' is dialectal); "yonder valley"; "the hills yonder"; "what is yon place?"  
+|yon s yonder, yon
+ distant but within sight (`yon' is dialectal); "yonder valley"; "the hills yonder"; "what is yon place?"  
+|yeasty s yeasty
+ exuberantly creative  
+|young s new, young
+ (of crops) harvested at an early stage of development; before complete maturity; "new potatoes"; "young corn"  
+|young s untested, untried, young
+ not tried or tested by experience; "unseasoned artillery volunteers"; "still untested in battle"; "an illustrator untried in mural painting"; "a young hand at plowing"  
+|yielding s yielding
+ tending to give in or surrender or agree; "too yielding to make a stand against any encroachments"- V.I.Parrington  
+|yielding s yielding
+ lacking stiffness and giving way to pressure; "a deep yielding layer of foam rubber"  
+|yellow s icteric, yellow
+ affected by jaundice which causes yellowing of skin etc  
+|yellow s yellow
+ cowardly or treacherous; "the little yellow stain of treason"-M.W.Straight; "too yellow to stand and fight"  
+|yearlong s yearlong
+ lasting through a year; "attending yearlong courses"  
+|yelled s shouted, yelled
+ in a vehement outcry; "his shouted words of encouragement could be heard over the crowd noises"  
+|yucky s foul, loathly, skanky, wicked, yucky
+ highly offensive; arousing aversion or disgust; "a disgusting smell"; "distasteful language"; "a loathsome disease"; "the idea of eating meat is repellent to me"; "revolting food"; "a wicked stench"  
+|yellow s yellow, yellowed
+ changed to a yellowish color by age; "yellowed parchment"  
+|yellowed s yellow, yellowed
+ changed to a yellowish color by age; "yellowed parchment"  
+|young s young
+ being in its early stage; "a young industry"; "the day is still young"  
+|young a young, immature
+ (used of living things especially persons) in an early period of life or development or growth; "young people"  
+|youngish s youngish
+ somewhat young  
+|youthful s youthful, vernal, young
+ suggestive of youth; vigorous and fresh; "he is young for his age"  
+|young s youthful, vernal, young
+ suggestive of youth; vigorous and fresh; "he is young for his age"  
+|yawning s yawning
+ gaping open as if threatening to engulf someone or something; "the yawning mine shaft"; "a yawning abyss"  
+|yawning s yawning
+ with the mouth wide open indicating boredom or sleepiness; "a yawning congregation"  
+|yokelish s lowbred, rude, yokelish
+ (of persons) lacking in refinement or grace  
+|yearly s annual, yearly
+ occurring or payable every year; "an annual trip to Paris"; "yearly medical examinations"; "annual (or yearly) income"  
+|younger s younger, jr.
+ used of the younger of two persons of the same name especially used to distinguish a son from his father; "John Junior"; "John Smith, Jr."  
+|yeasty s zestful, yeasty, zesty, barmy
+ marked by spirited enjoyment  
+|yielding s yielding
+ inclined to yield to argument or influence or control; "a timid yielding person"  
+|yummy s luscious, yummy
+ extremely pleasing to the sense of taste  
+|yogistic a yogistic, yogic
+ of or relating to yoga; "yogic exercises"  
+|yogic a yogistic, yogic
+ of or relating to yoga; "yogic exercises"  
+|yeasty a yeasty
+ of or resembling or containing yeast  
+|yet r even, yet, still
+ to a greater degree or extent; used with comparisons; "looked sick and felt even worse"; "an even (or still) more interesting problem"; "still another problem must be solved"; "a yet sadder tale"  
+|yet r however, withal, still, yet
+ despite anything to the contrary (usually preceding a concession); "although I'm a little afraid, however I'd like to try it"; "while we disliked each other, nevertheless we agreed"; "he was a stern yet fair master"; "granted that it is dangerous, all the same I still want to go"  
+|yet r yet
+ up to the present time; "I have yet to see the results"; "details are yet to be worked out"  
+|yet r hitherto, yet
+ used in negative statement to describe a situation that has existed up to this point or up to the present time; "So far he hasn't called"; "the sun isn't up yet"  
+|yet r yet
+ used after a superlative; "this is the best so far"; "the largest drug bust yet"  
+|yet r yet
+ within an indefinite time or at an unspecified future time; "he longed for the flowers that were yet to show themselves"; "sooner or later you will have to face the facts"; "in time they came to accept the harsh reality"  
+|yearly r annually, yearly
+ without missing a year; "they travel to China annually"  
+|yonder r yonder, yon
+ at or in an indicated (usually distant) place (`yon' is archaic and dialectal); "the house yonder"; "scattered here and yon"- Calder Willingham  
+|yon r yonder, yon
+ at or in an indicated (usually distant) place (`yon' is archaic and dialectal); "the house yonder"; "scattered here and yon"- Calder Willingham  
+|yea r yea, yeah
+ not only so, but; "I therein do rejoice, yea, and will rejoice"  
+|yeah r yea, yeah
+ not only so, but; "I therein do rejoice, yea, and will rejoice"  
+|yachting n boating, yachting
+ water travel for pleasure  
+|yoga n yoga
+ a system of physical, breathing and meditation exercises practiced to promote control of the body and mind  
+|yawn n yawn, yawning
+ an involuntary intake of breath through a wide open mouth; usually triggered by fatigue or boredom; "he could not suppress a yawn"; "the yawning in the audience told him it was time to stop"; "he apologized for his oscitancy"  
+|yawning n yawn, yawning
+ an involuntary intake of breath through a wide open mouth; usually triggered by fatigue or boredom; "he could not suppress a yawn"; "the yawning in the audience told him it was time to stop"; "he apologized for his oscitancy"  
+|yield n output, yield
+ production of a certain amount  
+|yodeling n yodeling
+ singing by changing back and forth between the chest voice and a falsetto  
+|young n young
+ any immature animal  
+|yolk n yolk, vitellus
+ nutritive material of an ovum stored for the nutrition of an embryo (especially the yellow mass of a bird or reptile egg)  
+|yearling n yearling
+ an animal in its second year  
+|yearling n yearling
+ a racehorse considered one year old until the second Jan. 1 following its birth  
+|yak n yak
+ large long-haired wild ox of Tibet often domesticated  
+|yarn n thread, yarn
+ a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving  
+|yacht n yacht
+ an expensive vessel propelled by sail or power and used for cruising or racing  
+|yagi n yagi
+ a sharply directional antenna  
+|yard n yard
+ an enclosure for animals (as chicken or livestock)  
+|yard n yard
+ a long horizontal spar tapered at the end and used to support and spread a square sail or lateen  
+|yard n yard, grounds
+ the enclosed land around a house or other building; "it was a small house with almost no yard"  
+|yard n yard, railyard
+ an area having a network of railway tracks and sidings for storage and maintenance of cars and engines  
+|yardarm n yardarm
+ either end of the yard of a square-rigged ship  
+|yarder n yarder
+ a winch (or system of winches) powered by an engine and used to haul logs from a stump to a landing or to a skid road  
+|yarmulke n yarmulke, yarmulka, yarmelke
+ a skullcap worn by religious Jews (especially at prayer)  
+|yarmulka n yarmulke, yarmulka, yarmelke
+ a skullcap worn by religious Jews (especially at prayer)  
+|yarmelke n yarmulke, yarmulka, yarmelke
+ a skullcap worn by religious Jews (especially at prayer)  
+|yashmak n yashmak, yashmac
+ the face veil worn by Muslim women  
+|yashmac n yashmak, yashmac
+ the face veil worn by Muslim women  
+|yataghan n yataghan
+ a long Turkish knife with a curved blade having a single edge  
+|yawl n yawl, dandy
+ a sailing vessel with two masts; a small mizzen is aft of the rudderpost  
+|yawl n yawl
+ a ship's small boat (usually rowed by 4 or 6 oars)  
+|yield n yield, fruit
+ an amount of a product  
+|yoke n yoke
+ stable gear that joins two draft animals at the neck so they can work together as a team  
+|yoke n yoke
+ fabric comprising a fitted part at the top of a garment  
+|yoke n yoke, coupling
+ a connection (like a clamp or vise) between two things so they move together  
+|yoke n yoke
+ support consisting of a wooden frame across the shoulders that enables a person to carry buckets hanging from each end  
+|yurt n yurt
+ a circular domed dwelling that is portable and self-supporting; originally used by nomadic Mongol and Turkic people of central Asia but now used as inexpensive alternative or temporary housing  
+|youth n youth
+ the freshness and vitality characteristic of a young person  
+|yellow n yellow
+ yellow color or pigment; the chromatic color resembling the hue of sunflowers or ripe lemons  
+|yardage n yardage
+ distance measured in the aggregate number of yards; "what is the yardage of this golf course?"  
+|yap n trap, cakehole, hole, maw, yap, gob
+ informal terms for the mouth  
+|yang n yang
+ the bright positive masculine principle in Chinese dualistic cosmology; "yin and yang together produce everything that comes into existence"  
+|yin n yin
+ the dark negative feminine principle in Chinese dualistic cosmology; "the interaction of yin and yang maintains the harmony of the universe"  
+|yoga n yoga
+ discipline aimed at training the consciousness for a state of perfect spiritual insight and tranquility that is achieved through the three paths of actions and knowledge and devotion  
+|yearly n annual, yearly, yearbook
+ a reference book that is published regularly once every year  
+|yearbook n annual, yearly, yearbook
+ a reference book that is published regularly once every year  
+|yodh n yodh
+ the 10th letter of the Hebrew alphabet  
+|yell n cry, outcry, call, yell, shout
+ a loud utterance; often in protest or opposition; "the speaker was interrupted by loud cries from the rear of the audience"  
+|yell n cry, yell
+ a loud utterance of emotion (especially when inarticulate); "a cry of rage"; "a yell of pain"  
+|yowl n bellow, holla, holler, hollo, holloa, roar, roaring, yowl
+ a very loud utterance (like the sound of an animal); "his bellow filled the hallway"  
+|yelling n yelling, shouting
+ uttering a loud inarticulate cry as of pain or excitement  
+|yodel n yodel
+ a songlike cry in which the voice fluctuates rapidly between the normal voice and falsetto  
+|yak n yak, yack, chatter, cackle
+ noisy talk  
+|yack n yak, yack, chatter, cackle
+ noisy talk  
+|yielding n yielding
+ the act of conceding or yielding  
+|yes n yes
+ an affirmative; "I was hoping for a yes"  
+|yea n yea
+ an affirmative; "The yeas have it"  
+|yarn n recital, yarn
+ the act of giving an account describing incidents or a course of events; "his narration was hesitant"  
+|yielding n yielding
+ a verbal act of admitting defeat  
+|yearbook n yearbook
+ a book published annually by the graduating class of a high school or college usually containing photographs of faculty and graduating students  
+|yip n yip, yelp, yelping
+ a sharp high-pitched cry (especially by a dog)  
+|yelp n yip, yelp, yelping
+ a sharp high-pitched cry (especially by a dog)  
+|yelping n yip, yelp, yelping
+ a sharp high-pitched cry (especially by a dog)  
+|yaw n yaw, swerve
+ an erratic deflection from an intended course  
+|yearning n longing, yearning
+ prolonged unfulfilled desire or need  
+|yen n yen
+ a yearning for something or to do something  
+|yam n yam
+ edible tuberous root of various yam plants of the genus Dioscorea grown in the tropics world-wide for food  
+|yam n yam
+ sweet potato with deep orange flesh that remains moist when baked  
+|yolk n yolk
+ the yellow spherical part of an egg that is surrounded by the albumen  
+|yogurt n yogurt, yoghurt, yoghourt
+ a custard-like food made from curdled milk  
+|yoghurt n yogurt, yoghurt, yoghourt
+ a custard-like food made from curdled milk  
+|yoghourt n yogurt, yoghurt, yoghourt
+ a custard-like food made from curdled milk  
+|young n young, youth
+ young people collectively; "rock music appeals to the young"; "youth everywhere rises in revolt"  
+|youth n young, youth
+ young people collectively; "rock music appeals to the young"; "youth everywhere rises in revolt"  
+|yeomanry n yeomanry
+ a British volunteer cavalry force organized in 1761 for home defense later incorporated into the Territorial Army  
+|yakuza n yakuza
+ organized crime in Japan; an alliance of criminal organizations and illegal enterprises  
+|yoke n yoke
+ a pair of draft animals joined by a yoke; "pulled by a yoke of oxen"  
+|year n class, year
+ a body of students who graduate together; "the class of '97"; "she was in my year at Hoehandle High"  
+|yeomanry n yeomanry
+ class of small freeholders who cultivated their own land  
+|yeshiva n yeshiva, yeshivah
+ an academy for the advanced study of Jewish texts (primarily the Talmud)  
+|yeshivah n yeshiva, yeshivah
+ an academy for the advanced study of Jewish texts (primarily the Talmud)  
+|yard n yard
+ a tract of land enclosed for particular activities (sometimes paved and usually associated with buildings); "they opened a repair yard on the edge of town"  
+|yard n yard
+ a tract of land where logs are accumulated  
+|yeti n yeti
+ a large hairy humanoid creature said to live in the Himalayas  
+|yid n kike, hymie, sheeny, yid
+ (ethnic slur) offensive term for a Jew  
+|yob n bully, tough, hooligan, ruffian, rowdy, yob, yobo, yobbo
+ a cruel and brutal fellow  
+|yobo n bully, tough, hooligan, ruffian, rowdy, yob, yobo, yobbo
+ a cruel and brutal fellow  
+|yobbo n bully, tough, hooligan, ruffian, rowdy, yob, yobo, yobbo
+ a cruel and brutal fellow  
+|yardbird n convict, con, inmate, yardbird
+ a person serving a sentence in a jail or prison  
+|yearner n longer, thirster, yearner
+ a person with a strong desire for something; "a longer for money"; "a thirster after blood"; "a yearner for knowledge"  
+|yeller n roarer, bawler, bellower, screamer, shouter, yeller
+ someone who communicates vocally in a very loud voice  
+|yielder n yielder
+ a person who yields or surrenders  
+|yearling n toddler, yearling, tot, bambino
+ a young child  
+|yakuza n yakuza
+ a Japanese gangster  
+|yanker n yanker, jerker
+ someone who gives a strong sudden pull  
+|yardbird n yardbird
+ a military recruit who is assigned menial tasks  
+|yardie n yardie
+ member of an international gang of Jamaican criminals who sell drugs and violence; "A much publicized raid on a yardie stronghold had first been simulated at Riot City"  
+|yardman n yardman
+ a laborer hired to do outdoor work (such as mowing lawns)  
+|yardman n yardman
+ worker in a railway yard  
+|yawner n yawner
+ a person who yawns  
+|yenta n yenta
+ (Yiddish) a woman who talks too much; a gossip unable to keep a secret; a woman who spreads rumors and scandal  
+|yenta n yenta
+ (Yiddish) a vulgar shrew; a shallow coarse termagant  
+|yeoman n yeoman
+ in former times was free and cultivated his own land  
+|yeoman n yeoman
+ officer in the (ceremonial) bodyguard of the British monarch  
+|yodeller n yodeller
+ a singer who changes register rapidly (popular is Swiss folk songs)  
+|yogi n yogi
+ one who practices yoga and has achieved a high level of spiritual insight  
+|yokel n yokel, rube, hick, yahoo, hayseed, bumpkin
+ a person who is not very intelligent or interested in culture  
+|yahoo n yokel, rube, hick, yahoo, hayseed, bumpkin
+ a person who is not very intelligent or interested in culture  
+|youth n youth, younker
+ a young person (especially a young man or boy)  
+|younker n youth, younker
+ a young person (especially a young man or boy)  
+|yuppie n yuppie
+ a young upwardly mobile professional individual; a well-paid middle-class professional who works in a city and has a luxurious life style  
+|yacca n yacca
+ West Indian evergreen with medium to long leaves  
+|yew n yew
+ any of numerous evergreen trees or shrubs having red cup-shaped berries and flattened needlelike leaves  
+|yew n yew
+ wood of a yew; especially the durable fine-grained light brown or red wood of the English yew valued for cabinetwork and archery bows  
+|yautia n yautia, tannia, malanga
+ tropical American aroid having edible tubers that are cooked and eaten like yams or potatoes  
+|yarrow n yarrow, milfoil
+ ubiquitous strong-scented mat-forming Eurasian herb of wasteland, hedgerow or pasture having narrow serrate leaves and small usually white florets; widely naturalized in North America  
+|yam n yam
+ any of a number of tropical vines of the genus Dioscorea many having edible tuberous roots  
+|yam n yam
+ edible tuber of any of several yams  
+|yucca n yucca
+ any of several evergreen plants of the genus Yucca having usually tall stout stems and a terminal cluster of white flowers; warmer regions of North America  
+|yeast n yeast
+ any of various single-celled fungi that reproduce asexually by budding or division  
+|yield n return, issue, take, takings, proceeds, yield, payoff
+ the income or profit arising from such transactions as the sale of land or other property; "the average return was about 5%"  
+|yard n yard
+ a unit of volume (as for sand or gravel)  
+|yobibyte n yobibyte
+ a unit of information equal to 1024 zebibytes or 2^80 bytes  
+|yottabit n yottabit
+ a unit of information equal to 1000 zettabits or 10^24 bits  
+|yobibit n yobibit
+ a unit of information equal to 1024 zebibits or 2^80 bits  
+|yard n yard, pace
+ a unit of length equal to 3 feet; defined as 91.44 centimeters; originally taken to be the average length of a stride  
+|yarder n yarder
+ (used only in combinations) the height or length of something in yards; "the golfer hit a 300-yarder to the green"  
+|yen n yen
+ the basic unit of money in Japan; equal to 100 sen  
+|yuan n yuan, kwai
+ the basic unit of money in China  
+|yoke n couple, pair, twosome, twain, brace, span, yoke, couplet, distich, duo, duet, dyad, duad
+ two items of the same kind  
+|yard n thousand, chiliad, grand, thou, yard
+ the cardinal number that is the product of 10 and 100  
+|yield n output, yield
+ the quantity of something (as a commodity) that is created (usually within a given period of time); "production was up in the second quarter"  
+|yoke n yoke
+ an oppressive power; "under the yoke of a tyrant"; "they threw off the yoke of domination"  
+|yaws n yaws
+ an infectious tropical disease resembling syphilis in its early stages; marked by red skin eruptions and ulcerating lesions  
+|yatobyo n yatobyo
+ a highly infectious disease of rodents (especially rabbits and squirrels) and sometimes transmitted to humans by ticks or flies or by handling infected animals  
+|yips n yips
+ nervous tension that causes an athlete to fail (especially causes golfers to miss short putts); "to avoid the yips he changed his style of putting"  
+|youth n youth
+ early maturity; the state of being young or immature or inexperienced  
+|ylem n ylem
+ (cosmology) the original matter that (according to the big bang theory) existed before the formation of the chemical elements  
+|yttrium n yttrium
+ a silvery metallic element that is common in rare-earth minerals; used in magnesium and aluminum alloys  
+|yeast n yeast, barm
+ a commercial leavening agent containing yeast cells; used to raise the dough in making bread and for fermenting beer or whiskey  
+|yore n yore
+ time long past  
+|years n days, years
+ the time during which someone's life continues; "the monarch's last days"; "in his final years"  
+|youth n youth
+ the time of life between childhood and maturity  
+|years n years, age, eld
+ a late time of life; "old age is not for sissies"; "he's showing his years"; "age hasn't slowed him down at all"; "a beard white with eld"; "on the brink of geezerhood"  
+|year n year
+ the period of time that it takes for a planet (as, e.g., Earth or Mars) to make a complete revolution around the sun; "a Martian year takes 687 of our days"  
+|year n year
+ a period of time containing 365 (or 366) days; "she is 4 years old"; "in the year 1920"  
+|year n year
+ a period of time occupying a regular part of a calendar year that is used for some particular activity; "a school year"  
+|years n age, years
+ a prolonged period of time; "we've known each other for ages"; "I haven't been there for years and years"  
+|youth n youth
+ an early period of development; "during the youth of the project"  
+|yawn v yawn
+ utter a yawn, as from lack of oxygen or when one is tired; "The child yawned during the long performance"  
+|yellow v yellow
+ turn yellow; "The pages of the book began to yellow"  
+|yield v yield
+ end resistance, as under pressure or force; "The door yielded to repeated blows with a battering ram"  
+|yak v yak, gab
+ talk profusely; "she was yakking away about her grandchildren"  
+|yield v yield, succumb
+ consent reluctantly  
+|yield v concede, yield, grant
+ be willing to concede; "I grant you this much"  
+|yammer v whine, grizzle, yammer, yawp
+ complain whiningly  
+|yawp v whine, grizzle, yammer, yawp
+ complain whiningly  
+|yell v yell, scream
+ utter or declare in a very loud voice; "You don't have to yell--I can hear you just fine"  
+|yell v shout, cry, call, yell, scream, holler, hollo, squall
+ utter a sudden loud cry; "she cried with pain when the doctor inserted the needle"; "I yelled to her from the window but she couldn't hear me"  
+|yowl v yowl
+ utter shrieks, as of cats  
+|yarn v yarn
+ tell or spin a yarn  
+|yack v yack, jaw
+ talk incessantly and tiresomely  
+|yawp v yawp, bawl
+ make a raucous noise  
+|yawl v howl, ululate, wail, roar, yawl, yaup
+ emit long loud cries; "wail in self-pity"; "howl with sorrow"  
+|yaup v howl, ululate, wail, roar, yawl, yaup
+ emit long loud cries; "wail in self-pity"; "howl with sorrow"  
+|yammer v howl, wrawl, yammer, yowl
+ cry loudly, as of animals; "The coyotes were howling in the desert"  
+|yowl v howl, wrawl, yammer, yowl
+ cry loudly, as of animals; "The coyotes were howling in the desert"  
+|yelp v yelp, yip, yap
+ bark in a high-pitched tone; "the puppies yelped"  
+|yip v yelp, yip, yap
+ bark in a high-pitched tone; "the puppies yelped"  
+|yap v yelp, yip, yap
+ bark in a high-pitched tone; "the puppies yelped"  
+|yodel v yodel, warble, descant
+ sing by changing register; sing by yodeling; "The Austrians were yodeling in the mountains"  
+|yield v yield
+ cease opposition; stop fighting  
+|yield v give, yield
+ be flexible under stress of physical force; "This material doesn't give"  
+|yoke v yoke
+ put a yoke on or join with a yoke; "Yoke the draft horses together"  
+|yoke v yoke, link
+ link with or as with a yoke; "yoke the oxen together"  
+|yoke v yoke
+ become joined or linked together  
+|yank v yank, jerk
+ pull, or move with a sudden movement; "He turned the handle and jerked the door open"  
+|yield v render, yield, return, give, generate
+ give or supply; "The cow brings in 5 liters of milk"; "This year's crop yielded 1,000 bushels of corn"; "The estate renders some revenue for the family"  
+|yield v give, yield
+ cause to happen or be responsible for; "His two singles gave the team the victory"  
+|yearn v yearn
+ have affection for; feel tenderness for  
+|yearn v ache, yearn, yen, pine, languish
+ have a desire for something or someone who is not present; "She ached for a cigarette"; "I am pining for my lover"  
+|yen v ache, yearn, yen, pine, languish
+ have a desire for something or someone who is not present; "She ached for a cigarette"; "I am pining for my lover"  
+|yearn v hanker, long, yearn
+ desire strongly or persistently  
+|yield v give, yield
+ move in order to make room for someone for something; "The park gave way to a supermarket"; "`Move over,' he told the crowd"  
+|yacht v yacht
+ travel in a yacht  
+|yaw v yaw
+ swerve off course momentarily; "the ship yawed when the huge waves hit it"  
+|yaw v yaw
+ deviate erratically from a set course; "the yawing motion of the ship"  
+|yield v yield, pay, bear
+ bring in; "interest-bearing accounts"; "How much does this savings certificate pay annually?"  
+|yield v concede, yield, cede, grant
+ give over; surrender or relinquish to the physical control of another  
+|yield v yield, give, afford
+ be the cause or source of; "He gave me a lot of trouble"; "Our meeting afforded much interesting information"  
+|yield v succumb, yield
+ be fatally overwhelmed  
+|yield v yield, relent, soften
+ give in, as to influence or pressure  
+|yawn v gape, yawn, yaw
+ be wide open; "the deep gaping canyon"  
+|yaw v gape, yawn, yaw
+ be wide open; "the deep gaping canyon"  
